@@ -1,0 +1,5 @@
+Requirement_ID,Category,User_Need_ID,Requirement,Acceptance_Criteria,Verification_Method,Risk_ID,Owner,Status,Version
+DI-001,Functional,UN-001,Passive DPI operation,TBD,Functional Test,RM-001,Device R&D,Draft,0.1
+DI-002,Performance,UN-002,Airflow resistance,TBD,Flow Resistance Test,RM-002,Device R&D,Draft,0.1
+DI-003,Usability,UN-003,Dose counter accuracy,TBD,Counter Test,RM-003,Device R&D,Draft,0.1
+DI-004,Protection,UN-004,Moisture protection,TBD,Stability Test,RM-004,Device R&D,Draft,0.1
