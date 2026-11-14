@@ -1,0 +1,6 @@
+Gate,Review_Item,Acceptance_Criterion,Evidence_ID,Owner,Status,Open_Action,Approval
+G1,Concept and user needs,Approved review criteria,TBD,TBD,Open,TBD,TBD
+G2,Design inputs and risk plan,Approved inputs and plan,TBD,TBD,Open,TBD,TBD
+G3,Detailed design and traceability,Approved outputs and links,TBD,TBD,Open,TBD,TBD
+G4,Verification validation and residual risks,Approved evidence and dispositions,TBD,TBD,Open,TBD,TBD
+G5,Design transfer and DHF,Transfer readiness and complete index,TBD,TBD,Open,TBD,TBD
