@@ -1,0 +1,5 @@
+Risk_ID,Hazard,Sequence_of_Events,Hazardous_Situation,Harm,Initial_Severity,Initial_Probability,Initial_Acceptability,Risk_Control,Implementation_Evidence,Effectiveness_Evidence,Residual_Severity,Residual_Probability,Residual_Acceptability,Owner,Status
+RM-001,Dose preparation failure,TBD,Insufficient dose delivered,Underdose,TBD,TBD,TBD,Metering mechanism design,TBD,TBD,TBD,TBD,TBD,Device R&D,Draft
+RM-002,Low inspiratory flow,TBD,Insufficient deaggregation,Underdose,TBD,TBD,TBD,Air-path design,TBD,TBD,TBD,TBD,TBD,Device R&D,Draft
+RM-003,Counter malfunction,TBD,Incorrect remaining-dose indication,Missed dose,TBD,TBD,TBD,Counter design,TBD,TBD,TBD,TBD,TBD,Device R&D,Draft
+RM-004,Moisture ingress,TBD,Product performance degradation,Incorrect dose,TBD,TBD,TBD,Moisture barrier,TBD,TBD,TBD,TBD,TBD,Device R&D,Draft
