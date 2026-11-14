@@ -1,0 +1,3 @@
+Record_ID,Record_Type,Project_ID,Document_ID,Version,Approval_Status,Evidence_Location,Retention_Rule
+DHF-001,Design Plan,DPI-PLATFORM-001,PLN-001,0.1,Draft,01_Design-Planning/PLN-001_Design-Development-Plan.md,TBD
+DHF-002,Design Inputs,DPI-PLATFORM-001,DI-002,0.1,Draft,02_Design-Inputs/DI-002_Design-Input-Matrix.csv,TBD
