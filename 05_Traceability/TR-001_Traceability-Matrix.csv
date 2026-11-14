@@ -1,0 +1,3 @@
+User_Need_ID,Requirement_ID,Design_Output_ID,Risk_ID,Verification_ID,Validation_ID,Evidence_Reference,Result,Approval_Status
+UN-001,DI-001,DO-001,RM-001,TBD,TBD,TBD,Not Run,Draft
+UN-002,DI-002,DO-002,RM-002,TBD,TBD,TBD,Not Run,Draft
