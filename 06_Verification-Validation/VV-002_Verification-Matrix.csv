@@ -1,0 +1,5 @@
+Test_ID,Requirement_ID,Test_Name,Protocol_ID,Sample_Size_Rationale,Acceptance_Criteria,Report_ID,Deviation_ID,Result,Approval_Status
+VV-001,DI-001,Functional operation,TBD,TBD,TBD,TBD,,Not Run,Draft
+VV-002,DI-002,Flow resistance,TBD,TBD,TBD,TBD,,Not Run,Draft
+VV-003,DI-003,Counter accuracy,TBD,TBD,TBD,TBD,,Not Run,Draft
+VV-004,DI-004,Moisture protection,TBD,TBD,TBD,TBD,,Not Run,Draft
